@@ -56,7 +56,7 @@ A DevOps | Full Stack Developer software expert that loves code logic and UI des
 
 ###  Try Hack Me:
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Perfil-orange?style=for-the-badge)](https://tryhackme.com/p/438224)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/HoshinoJack.png)](https://tryhackme.com/p/438224)
 
 ###  Github Stats:
 ![JaquelineBrandao's Stats](https://github-readme-stats.vercel.app/api?username=JaquelineBrandao&theme=dark&show_icons=true&hide_border=true&count_private=false)
@@ -65,6 +65,7 @@ A DevOps | Full Stack Developer software expert that loves code logic and UI des
 
 ### My contributions:
 [![JaquelineBrandao](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelineBrandao&theme=bear&background=000&border=000&dates=FFF)](https://github.com/JaquelineBrandao/github-readme-stats)
+
 
 
 
