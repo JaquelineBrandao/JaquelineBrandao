@@ -16,7 +16,7 @@ A DevOps | Full Stack Developer software expert that loves code logic and UI des
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaqueline-pereira-brand%C3%A3o-695b8225/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaque.branda)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://www.twitter.com/Jackielinebrand)
-[![Steam](https://img.shields.io/badge/Steam-002?style=for-the-badge&logo=steam)]([https://www.twitter.com/Jackielinebrand](https://steamcommunity.com/id/HoshinoJack/))
+[![Steam](https://img.shields.io/badge/Steam-002?style=for-the-badge&logo=steam)](https://www.twitter.com/Jackielinebrand](https://steamcommunity.com/id/HoshinoJack/)
 
 ### Languages and Tools Know:
 ![PowerBi](https://img.shields.io/badge/PowerBi-000?style=for-the-badge&logo=Powerbi)
